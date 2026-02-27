@@ -10,7 +10,7 @@ func main() {
 	fmt.Println("Menu Sistema \n\n 1 - Iniciar Programa \n 2 - Exibir Logs \n 3 - Sair \n\n")
 
 	var comando int
-	fmt.Scanf("%d", &comando)
+	fmt.Scan(&comando)
 	fmt.Println("Endereço na memória para a var comando: ", &comando)
 
 	fmt.Println("Opção selecionada: ", comando)
