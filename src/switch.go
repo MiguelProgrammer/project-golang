@@ -19,6 +19,7 @@ func main() {
 
 	/**
 	* por default, não é necessário o break
+	* Se incluído seria apenas por didática
 	 */
 
 	switch comando {
