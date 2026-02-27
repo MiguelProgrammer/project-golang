@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main1() {
 	nome := "Miguel Silva"
 	versao := 1.1
 	fmt.Println("Olá, ", nome)
